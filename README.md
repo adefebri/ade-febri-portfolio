@@ -41,6 +41,10 @@ I specialize in building scalable data pipelines, automating infrastructure, and
 - Bash
 - JavaScript
 
+## Certifications
+
+- DevOps Fundamentals
+![DevOps](./assets/badges/devops.pdf)
 
 ## Professional Experience
 
