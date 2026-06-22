@@ -43,8 +43,7 @@ I specialize in building scalable data pipelines, automating infrastructure, and
 
 ## Certifications
 
-- DevOps Fundamentals
-![DevOps](./assets/badges/devops.pdf)
+- ![DevOps Fundamentals](./assets/badges/devops.pdf)
 
 ## Professional Experience
 
