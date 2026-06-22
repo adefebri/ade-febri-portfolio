@@ -40,3 +40,17 @@ I specialize in building scalable data pipelines, automating infrastructure, and
 - SQL
 - Bash
 - JavaScript
+
+
+## Professional Experience
+
+- DevOps Engineering
+- Data Platform Operations
+- Data Integration
+- Infrastructure Automation
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/ade-febri-syah-putra/
+- GitHub: https://github.com/adefebri
+- Email: ads.febri7998@gmail.com
