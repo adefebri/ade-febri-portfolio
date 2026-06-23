@@ -1,0 +1,12 @@
+services:
+  mkdocs:
+    build: .
+    container_name: portfolio-mkdocs
+
+    ports:
+      - "8000:8000"
+
+    volumes:
+      - .:/app
+
+    restart: unless-stopped

@@ -1,0 +1,56 @@
+site_name: Ade Febri Syah Putra
+site_url: https://example.com
+site_description: DevOps & Data Engineering Documentation
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+
+  palette:
+    - scheme: slate
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+    - scheme: default
+      primary: blue
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+  font:
+    text: Plus Jakarta Sans
+    code: Fira Code
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+    - content.action.edit
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Projects: projects.md
+  # - DevOps:
+  #     - Kubernetes: devops/kubernetes.md
+  #     - Kafka: devops/kafka.md
+  #     - PostgreSQL: devops/postgres.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - md_in_html  
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+  
