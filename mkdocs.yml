@@ -36,6 +36,8 @@ nav:
   - Home: index.md
   - About: about.md
   - Projects: projects.md
+  - Experience: experience.md
+  - Skills: skills.md
   # - DevOps:
   #     - Kubernetes: devops/kubernetes.md
   #     - Kafka: devops/kafka.md
