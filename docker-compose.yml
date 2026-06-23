@@ -1,13 +1,12 @@
 services:
-  nginx:
-    image: nginx:alpine
-    container_name: portfolio-nginx
+  mkdocs:
+    build: .
+    container_name: portfolio-mkdocs
 
     ports:
-      - "8085:80"
+      - "127.0.0.1:8085:8000"
 
     volumes:
-      - ./site:/usr/share/nginx/html:ro
-      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf:ro
+      - .:/app
 
     restart: unless-stopped
