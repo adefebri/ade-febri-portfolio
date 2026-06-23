@@ -8,5 +8,6 @@ services:
 
     volumes:
       - .:/app
+      - ./site:/usr/share/nginx/html:ro
 
     restart: unless-stopped
