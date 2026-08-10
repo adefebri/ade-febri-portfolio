@@ -48,7 +48,7 @@ This project implements a real-time data integration pipeline that captures chan
          │
 ┌────────┴────────┐
 │ Python          │
-│ Transformation  │
+│ Transformation  │ - Consume - Deserialize - Transform - Validate - Post
 │ Service         │
 └────────┬────────┘
          │
