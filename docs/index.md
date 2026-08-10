@@ -16,7 +16,7 @@ Designing scalable infrastructure, event-driven architectures, and real-time dat
 
 <div class="hero-buttons">
 
-<a class="btn-primary" href="./projects/">🚀 View Projects</a>
+<a class="btn-primary" href="projects/">🚀 View Projects</a>
 <a class="btn-secondary" href="./about/">👤 About Me</a>
 
 </div>
