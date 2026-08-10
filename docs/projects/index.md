@@ -8,7 +8,7 @@ Each project demonstrates practical experience in designing, building, and opera
 
 ## Featured Projects
 
-### 🔄 Event-Driven Integration with CDC
+### Event-Driven Integration with CDC
 
 **Connecting Odoo PostgreSQL with external systems using Change Data Capture (CDC), Debezium, Kafka, Apicurio Schema Registry, and Python-based transformation services.**
 
